@@ -1,0 +1,23 @@
+{
+  "symbol": "USDT",
+  "address": "0x0DD126CA9EAbA5A9c55B14dd71787F88594A64d5",
+  "decimals": 18,
+  "overview": {
+    "en": "Turbo USD Finance (USDT) is an independent USD-pegged stablecoin on BNB Smart Chain. The token is designed for fast, low-cost DeFi transactions with 1:1 USD backing and transparent reserves. NOT affiliated with Tether Holdings Limited.",
+    "zh": "Turbo USD Finance (USDT) 是 BNB 智能链上独立的美元锚定稳定币。该代币专为快速、低成本的 DeFi 交易而设计，具有 1:1 美元支持和透明的储备金。与 Tether Holdings Limited 无关联。"
+  },
+  "email": "support@turbousd.io",
+  "website": "https://turbousd.io",
+  "whitepaper": "https://turbousd.io/turbo-usd-whitepaper.pdf",
+  "links": {
+    "twitter": "https://x.com/nenzybrown",
+    "telegram": "https://t.me/turbousdcommunity",
+    "github": "https://github.com/Nenzy10/Turbousd.io"
+  },
+  "published_on": "2026-01-17",
+  "initial_price": {
+    "USD": "1.00",
+    "BNB": "0.001565"
+  },
+  "gas_limit": "60000"
+}
